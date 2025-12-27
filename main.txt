@@ -1,3 +1,0 @@
-Title: Git for Everyone!
-Hello test!
-Hello test!!
